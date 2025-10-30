@@ -54,7 +54,7 @@ body{
 
 .logo{
     font-size: 2rem;
-    color: #fff;
+    color: #0277fd;
     text-decoration: none;
     font-weight: 700;
 }
@@ -65,7 +65,7 @@ body{
 
 .navbar a{
     font-size: 1.15rem;
-    color: #fff;
+    color: #3d0303;
     text-decoration: none;
     font-weight: 500;
     margin-left: 2.5rem;
@@ -75,7 +75,7 @@ body{
     position: absolute;
     right: 5%;
     font-size: 2.8rem;
-    color: #fff;
+    color: #3d0303;
     cursor: pointer;
     display: none;
 }
@@ -170,4 +170,5 @@ body{
     font-size: 1.5rem;
     margin-top: 10px;
 }
+
 
